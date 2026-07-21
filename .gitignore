@@ -1,0 +1,11 @@
+.venv/
+
+__pycache__/
+
+.ipynb_checkpoints/
+
+*.pyc
+
+# Market and research data
+data/raw/
+data/processed/
